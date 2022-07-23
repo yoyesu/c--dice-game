@@ -1,0 +1,15 @@
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.csproj.AssemblyReference.cache
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.AssemblyInfoInputs.cache
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.AssemblyInfo.cs
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.csproj.CoreCompileInputs.cache
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\bin\Debug\net6.0\dice-game.exe
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\bin\Debug\net6.0\dice-game.deps.json
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\bin\Debug\net6.0\dice-game.runtimeconfig.json
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\bin\Debug\net6.0\dice-game.dll
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\bin\Debug\net6.0\dice-game.pdb
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.dll
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\refint\dice-game.dll
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.pdb
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\dice-game.genruntimeconfig.cache
+C:\Users\Mariadolores\Desktop\Proyectos\c#\dice-game\obj\Debug\net6.0\ref\dice-game.dll
